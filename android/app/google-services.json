@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836374406934",
+    "project_id": "astromaagic-b2480",
+    "storage_bucket": "astromaagic-b2480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836374406934:android:4c9cdb7760449809a05237",
+        "android_client_info": {
+          "package_name": "com.mdq.astromaagic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ci3VwP8ZJMVropptzfGFRLNjLzxWLbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
